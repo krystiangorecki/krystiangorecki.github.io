@@ -1,0 +1,15 @@
+[
+   {
+      "id":"8123123",
+      "styleId":"ad1231231",
+      "colorwayDescription":"asdfasdfsdf",
+      "colorwayNumber":1,
+      "embargoDate":"2022-11-26",
+      "productCreationModelId":"12312312312312",
+      "colorwayPatternCode":null,
+      "lineFranchiseExecutionCode":null,
+      "defaultAutoSubsidiaryRelease":false,
+      "internalAvailability":true,
+      "internalAvailabilityDate":"2022-10-29"
+   }
+]
