@@ -8,8 +8,6 @@
       "productCreationModelId":"12312312312312",
       "colorwayPatternCode":null,
       "lineFranchiseExecutionCode":null,
-      "defaultAutoSubsidiaryRelease":false,
-      "internalAvailability":true,
-      "internalAvailabilityDate":"2022-10-30"
+      "defaultAutoSubsidiaryRelease":false
    }
 ]
